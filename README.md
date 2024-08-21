@@ -27,6 +27,23 @@ The Key findings are as-
   - **Large** pizzas dominate with 45.89% of sales.
   - **X-Large** pizzas follow with 30.49% of sales.
 
-         
-Total Pizzas Sold by Category:
-	The Classic category is the top performer with 14,888 pizzas sold, followed by Supreme (11,987) and Veggie (11,649) categories.
+## Best Sellers
+
+### Top Performers
+- **Top Revenue Generator:** The Thai Chicken pizza, sales woth $43K.
+- **Top Quantity Seller:** The Classic Deluxe pizza, selling the most in terms of both quantity and total orders, with 2.5K pizzas sold and 2.3K orders.
+
+### Top 5 Pizzas
+- **By Revenue:** After the Thai Chicken pizza, the Barbecue ($43K) and California ($41K).
+- **By Quantity:** Following the Classic Deluxe, the Barbecue, Hawaiian, Pepperoni, and Thai Chicken pizzas were the next top sellers.
+
+## Worst Sellers
+
+### Underperformers
+- **Least Revenue:** The Brie Carre pizza,with the lowest revenue at just $12K.
+- **Lowest Quantity and Orders:** The Brie Carre, with only 490 units sold and 480 orders, making it the least popular pizza.
+
+### Bottom 5 Pizzas
+- **By Revenue:** After the Brie Carre, the Spinach Pesto, Mediterranean, Spinach Supreme, and Green Garden pizzas.
+- **By Quantity and Orders:** The Brie Carre, followed by Mediterranean, Spinach Supreme, and Calabrese pizzas, each selling fewer than 1K units.
+
