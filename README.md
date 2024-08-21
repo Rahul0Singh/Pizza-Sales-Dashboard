@@ -1,5 +1,5 @@
 # Pizza-Sales-Dashboard
-# The Key findings are as-
+The Key findings are as-
 
 Total Revenue and Sales Metrics:
 	Total revenue of $817.86K.
